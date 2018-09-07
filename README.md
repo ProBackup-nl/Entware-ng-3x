@@ -1,3 +1,7 @@
+# Entware-ng-3x is outdated
+
+Use [entware](http://bin.entware.net/mipselsf-k3.4/) for Padavan firmware.
+
 ## Entware-ng-3x
 
 This is a fork of Entware-ng project: https://github.com/Entware-ng/Entware-ng
